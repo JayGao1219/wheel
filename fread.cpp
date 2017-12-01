@@ -1,3 +1,4 @@
+const int len=456733;
 char buf[len],*cur(buf),*next(buf+1);
 #define readBuf(){\
 if(++cur==next)\
